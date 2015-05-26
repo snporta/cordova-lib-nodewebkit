@@ -72,8 +72,8 @@
         "version": "3.6.0"
     },
 	"nw": {
-        "parser_file": "../cordova/metadata/browser_parser",
-        "handler_file": "../plugman/platforms/browser",
+        "parser_file": "../cordova/metadata/nodewebkit_parser",
+        "handler_file": "../plugman/platforms/nodewebkit",
         "url": "git@github.com:snporta/cordova-lib.git",
         "version": "1.0"
     }
